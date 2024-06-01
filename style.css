@@ -99,6 +99,18 @@ h4:hover {
   margin-bottom: 1.2rem;
   margin-right: 1rem;
 }
+.answers_toggle {
+  display: block;
+}
+
+.questions_toggle {
+  color: #1d1e35;
+  font-weight: 700;
+}
+
+.rotate {
+  transform: rotate(180deg);
+}
 
 hr {
   border-top: 0px solid rgba(0, 0, 0, 0.1);
